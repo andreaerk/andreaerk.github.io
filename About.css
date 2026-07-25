@@ -1,7 +1,7 @@
  .u-section-1 {
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("images/photo-1711062717294-8902df8cebe3.jpeg");
+  background-image: linear-gradient(to bottom, #425465, rgba(87, 77, 86, 1) 87%, #6b4748);
   background-size: cover;
 }
 
@@ -433,10 +433,10 @@
     margin-bottom: -14px;
   }
 } .u-section-2 {
-  background-position: 50% 50%, 50% 50%;
-  background-repeat: no-repeat, no-repeat;
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/photo-1643199187247-b3b6009bf0bb.jpeg');
-  background-size: cover, cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(rgba(107, 71, 72, 1), rgba(111, 90, 67, 1) 89%, rgba(114, 104, 63, 1));
+  background-size: cover;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -444,8 +444,8 @@
 }
 
 .u-section-2 .u-text-1 {
-  font-weight: 700;
   font-size: 1.875rem;
+  font-weight: 700;
   margin: 29px auto 0;
 }
 
@@ -575,7 +575,6 @@
 
   .u-section-2 .u-text-1 {
     width: auto;
-    margin-top: 37px;
   }
 
   .u-section-2 .u-list-1 {
@@ -631,7 +630,10 @@
     grid-auto-columns: calc(100% - 0px);
   }
 } .u-section-3 {
-  background-image: none;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to bottom, rgba(114, 104, 63, 1), rgba(88, 80, 49, 1) 94%, #000000);
+  background-size: cover;
 }
 
 .u-section-3 .u-sheet-1 {
