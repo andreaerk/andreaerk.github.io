@@ -1,9 +1,7 @@
  .u-section-1 {
   filter: none;
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/eso2401a.jpg');
-  background-position: 50% 50%, 50% 50%;
   background-repeat: no-repeat, no-repeat;
-  background-size: cover, cover;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -88,6 +86,11 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%, 50% 50%;
+    background-size: auto, 1920px 1440px;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 474px;
   }
@@ -206,15 +209,24 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1005px;
+    min-height: 897px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: 197px;
+    margin-top: 99px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 242px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 25px;
+    padding-bottom: 6px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 0;
   }
 
   .u-section-1 .u-text-2 {
@@ -222,11 +234,15 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 100px;
+    min-height: 242px;
   }
 
   .u-section-1 .u-group-1 {
-    width: 540px;
+    min-height: 211px;
+    margin-top: 30px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-container-layout-3 {
@@ -236,18 +252,23 @@
 
   .u-section-1 .u-text-6 {
     width: auto;
-    margin-top: 16px;
+    margin-top: 12px;
+    margin-bottom: 12px;
     margin-left: 102px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1211px;
+    min-height: 1072px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: 283px;
+    margin-top: 111px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 256px;
   }
 
   .u-section-1 .u-text-1 {
@@ -259,22 +280,25 @@
     font-size: 2.8125rem;
   }
 
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
   .u-section-1 .u-text-4 {
     margin-right: 0;
   }
 
   .u-section-1 .u-group-1 {
     min-height: 298px;
-    margin-top: 30px;
+    width: auto;
     margin-right: initial;
     margin-left: initial;
-    width: auto;
   }
 
   .u-section-1 .u-text-6 {
-    margin-top: 9px;
+    margin-top: 30px;
     margin-left: 0;
-    margin-bottom: 0;
+    margin-bottom: 30px;
   }
 } .u-section-2 {
   filter: none;

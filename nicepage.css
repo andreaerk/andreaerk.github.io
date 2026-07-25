@@ -46262,9 +46262,9 @@ a.u-link.u-text-hover-color-var.hover {
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -59px;
-    margin-bottom: 20px;
-    margin-left: -35px;
+    margin-top: -35px;
+    margin-bottom: 24px;
+    margin-left: -13px;
   }
 
   .u-header .u-hamburger-link-1 {
@@ -46281,8 +46281,6 @@ a.u-link.u-text-hover-color-var.hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: -35px;
-    margin-bottom: 24px;
     margin-left: -29px;
   }
 }
@@ -46300,7 +46298,11 @@ a.u-link.u-text-hover-color-var.hover {
     min-height: 66px;
   }
 }
-
+@media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 58px;
+  }
+}
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
