@@ -1941,7 +1941,7 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 1145px;
+  min-height: 1240px;
 }
 
 .u-section-5 .u-text-1 {
@@ -1959,13 +1959,13 @@
 
 .u-section-5 .u-list-1 {
   width: 1078px;
-  margin: 0 0 27px auto;
+  margin: 27px 0 47px auto;
 }
 
 .u-section-5 .u-repeater-1 {
   grid-template-columns: repeat(1, 100%);
-  min-height: 964px;
-  --gap: 10px;
+  min-height: 1033px;
+  --gap: 17px;
   grid-auto-columns: 100%;
 }
 
