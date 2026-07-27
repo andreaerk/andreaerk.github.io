@@ -2,6 +2,8 @@
   filter: none;
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/eso2401a.jpg');
   background-repeat: no-repeat, no-repeat;
+  background-size: auto, 1920px 1440px;
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -86,11 +88,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%, 50% 50%;
-    background-size: auto, 1920px 1440px;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 474px;
   }
@@ -145,6 +142,11 @@
 }
 
 @media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 50% 50%, 50% 50%;
+    background-size: auto, 1920px 1440px;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 272px;
   }
