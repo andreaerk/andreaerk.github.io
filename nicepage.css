@@ -46217,7 +46217,6 @@ a.u-link.u-text-hover-color-var.hover {
   font-weight: 500;
   font-size: 1rem;
   text-transform: uppercase;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-popup-1 {
@@ -46240,6 +46239,10 @@ a.u-link.u-text-hover-color-var.hover {
 
   .u-header .u-menu-1 {
     margin-top: -49px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 @media (max-width: 991px) {
@@ -46269,10 +46272,6 @@ a.u-link.u-text-hover-color-var.hover {
 
   .u-header .u-hamburger-link-1 {
     font-size: calc(1em + 13.5px);
-  }
-
-  .u-header .u-nav-popup-1 {
-    padding-right: 10px;
   }
 }
 @media (max-width: 575px) {
