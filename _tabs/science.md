@@ -1,5 +1,5 @@
 ---
-layout: Science
+layout: science
 icon: fas fa-archive
 order: 3
 ---
