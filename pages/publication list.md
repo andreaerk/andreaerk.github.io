@@ -80,3 +80,7 @@ Published in _The Astronomical Journal_, Volume 160, Issue 1, 22 ([journal](http
 P. Bluhm, R. Luque, N. Espinoza, and 81 others, including **AE** (2020)  
 Published in _Astronomy & Astrophysics_, Volume 693, 132 ([journal](https://doi.org/10.1051/0004-6361/202038160), [arxiv](https://doi.org/10.48550/arXiv.2004.06218))  
 
+* _An ultrahot Neptune in the Neptune desert_  
+J.S. Jenkins, M.R. Díaz, N.T. Kurtovic, and 81 others, including **AE** (2020)  
+Published in _Nature Astronomy_, Volume 4, p.1148-1157 ([journal](https://doi.org/10.1038/s41550-020-1142-z), [arxiv](https://doi.org/10.48550/arXiv.2009.12832))  
+
