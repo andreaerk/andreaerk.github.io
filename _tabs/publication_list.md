@@ -1,8 +1,10 @@
 ---
 layout: page
-icon: fas fa-archive
-order: 5
+title: "My hidden page"
+permalink: /archive-details/
 ---
+
+Your markdown content here.
 
 ## Publications 
 ### First-authored peer reviewed articles
