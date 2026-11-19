@@ -17,20 +17,20 @@ My main research focuses on studying stars, their weird evolution in binaries, a
 ## Publications 
 ### First-authored peer reviewed articles
 * _Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models_  
-**AE**, N. Langer, A. Gal-Yam, A. Schootemeijer, C. Mannes, et al. (2026)  
+**AE**, N. Langer, A. Gal-Yam, et al. (2026)  
  In press on Astronomy & Astrophysics ([arxiv](https://doi.org/10.48550/arXiv.2605.21062))  
   
 * _The demographics of core-collapse supernovae: The role of binary evolution and interaction with the circumstellar medium_  
-**AE**, H. Jin, N. Langer, A. Gal-Yam, A. Schootemeijer, et al. (2026)  
-  Published on [Astronomy & Astrophysics, Volume 706, 169](https://doi.org/10.1051/0004-6361/202557572) ([arxiv](https://doi.org/10.48550/arXiv.2510.04872))  
+**AE**, H. Jin, N. Langer, et al. (2026)  
+  Published on Astronomy & Astrophysics, Volume 706, 169 ([journal](https://doi.org/10.1051/0004-6361/202557572), [arxiv](https://doi.org/10.48550/arXiv.2510.04872))  
   
 * _Mass-transferring binary stars as progenitors of interacting hydrogen-free supernovae_  
 **AE**, H. Jin, N. Langer, L. Dessart (2025)  
-  Published on [Astronomy & Astrophysics, Volume 696, 103](https://doi.org/10.1051/0004-6361/202453426) ([arxiv](https://doi.org/10.48550/arXiv.2412.09893))  
+  Published on Astronomy & Astrophysics, Volume 696, 103 ([journal](https://doi.org/10.1051/0004-6361/202453426), [arxiv](https://doi.org/10.48550/arXiv.2412.09893))  
   
 * _Interacting supernovae from wide massive binary systems_  
  **AE**, H. Jin, N. Langer, L. Dessart (2024)  
-  Published on [Astronomy & Astrophysics, Volume 685, 58](https://doi.org/10.1051/0004-6361/202347646) ([arxiv](https://doi.org/10.48550/arXiv.2308.01819))  
+  Published on Astronomy & Astrophysics, Volume 685, 58 ([journal](https://doi.org/10.1051/0004-6361/202347646), [arxiv](https://doi.org/10.48550/arXiv.2308.01819))  
 
 ### Conference proceedings 
 * Progenitor models of supernovae interacting with their binary companions  
@@ -39,12 +39,26 @@ My main research focuses on studying stars, their weird evolution in binaries, a
   
 * Interacting supernovae from wide mass-transferring binaries  
   AE (2024)  
-  [Bulletin de la Société Royale des Sciences de Liège, vol. 93, no. 3](https://doi.org/10.25518/0037-9565.12312) - Proceedings of the 41st Liège International Astrophysical Colloquium ([arxiv](https://doi.org/10.48550/arXiv.2410.16742))  
+ Published on Bulletin de la Société Royale des Sciences de Liège, vol. 93, no. 3 - Proceedings of the 41st Liège International Astrophysical Colloquium ([journal]((https://doi.org/10.25518/0037-9565.12312)), [arxiv](https://doi.org/10.48550/arXiv.2410.16742))  
   
 ### Co-authored works (major contribution) 
+* _Hidden massive eclipsing binaries in red supergiant systems: The hierarchical triple system KQ Puppis and other candidates_  
+ D. Jadlovský, L. Molnár, **AE**, et al. (2026)  
+  Published on Astronomy & Astrophysics, Volume 712, 30 ([journal](https://doi.org/10.1051/0004-6361/202557474), [arxiv](https://doi.org/10.48550/arXiv.2509.25168))
+  
 * _A comprehensive grid of massive binary evolution models for the Galaxy: Surface properties of post-mass-transfer stars_  
  H. Jin, N. Langer, **AE**, S. de Mink (2026)  
-  Published on [Astronomy & Astrophysics, Volume 707, 56](https://doi.org/10.1051/0004-6361/202558177) ([arxiv](https://doi.org/10.48550/arXiv.2510.19965))  
+  Published on Astronomy & Astrophysics, Volume 707, 56 ([journal](https://doi.org/10.1051/0004-6361/202558177), [arxiv](https://doi.org/10.48550/arXiv.2510.19965))  
+  
+* _A sequence of Type Ib, IIb, II-L, and II-P supernovae from binary-star progenitors with varying initial separations_  
+ L. Dessart, C. P. Gutierrez, **AE**, H. Jin, N. Langer (2024)  
+  Published on Astronomy & Astrophysics, Volume 685, 169 ([journal](https://doi.org/10.1051/0004-6361/202349066), [arxiv](https://doi.org/10.48550/arXiv.2402.12977))  
+
+* _Evidence for Evolved Stellar Binary Mergers in Observed B-type Blue Supergiants_  
+A. Menon, A. Ercolino, M. A. Urbaneja, et al. (2024)  
+  Published on The Astrophysical Journal Letters, Volume 963, Issue 2, L42 ([journal](https://doi.org/10.3847/2041-8213/ad2074), [arxiv](https://doi.org/10.48550/arXiv.2311.05581))  
+
+
 
 ### Co-authored works (long author list)
 
