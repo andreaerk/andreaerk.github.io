@@ -39,7 +39,7 @@ My main research focuses on studying stars, their weird evolution in binaries, a
   
 * _Interacting supernovae from wide mass-transferring binaries_  
   **AE** (2024)  
- Published in Bulletin de la Société Royale des Sciences de Liège, vol. 93, no. 3 - _Proceedings of the 41st Liège International Astrophysical Colloquium: The eventful life of massive star multiples_ ([journal]((https://doi.org/10.25518/0037-9565.12312)), [arxiv](https://doi.org/10.48550/arXiv.2410.16742))  
+ Published in Bulletin de la Société Royale des Sciences de Liège, vol. 93, no. 3 - _Proceedings of the 41st Liège International Astrophysical Colloquium: The eventful life of massive star multiples_ ([journal](https://doi.org/10.25518/0037-9565.12312), [arxiv](https://doi.org/10.48550/arXiv.2410.16742))  
   
 ### Co-authored works (major contribution) 
 * _Hidden massive eclipsing binaries in red supergiant systems: The hierarchical triple system KQ Puppis and other candidates_  
