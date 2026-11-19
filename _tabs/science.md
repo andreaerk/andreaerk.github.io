@@ -15,13 +15,25 @@ In simple terms.... it's hard. And from this complicated mess, the most interest
 My main research focuses on studying stars, their weird evolution in binaries, and their supernova explosions. On the side, I enjoy also a bit of exoplanets. 
 
 ## Publications 
-* Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models
-  AE, N. Langer, A. Gal-Yam, A. Schootemeijer, C. Mannes, et al.
-  In press on Astronomy & Astrophysics ([arxiv](https://doi.org/10.48550/arXiv.2605.21062))
-* The demographics of core-collapse supernovae: The role of binary evolution and interaction with the circumstellar medium
-  AE, H. Jin, N. Langer, A. Gal-Yam, A. Schootemeijer, et al.
+## First-authored peer reviewed articles
+* Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models  
+  AE, N. Langer, A. Gal-Yam, A. Schootemeijer, C. Mannes, et al.  
+  In press on Astronomy & Astrophysics ([arxiv](https://doi.org/10.48550/arXiv.2605.21062))  
+* The demographics of core-collapse supernovae: The role of binary evolution and interaction with the circumstellar medium  
+  AE, H. Jin, N. Langer, A. Gal-Yam, A. Schootemeijer, et al.  
   Published on [Astronomy & Astrophysics, Volume 706, 169](https://doi.org/10.1051/0004-6361/202557572) ([arxiv](https://doi.org/10.48550/arXiv.2510.04872))
+* Mass-transferring binary stars as progenitors of interacting hydrogen-free supernovae  
+  AE, H. Jin, N. Langer, L. Dessart  
+  Published on [Astronomy & Astrophysics, Volume 696, 103](https://doi.org/10.1051/0004-6361/202453426) ([arxiv](https://doi.org/10.48550/arXiv.2412.09893))
+* Interacting supernovae from wide mass-transferring binaries  
+  AE, H. Jin, N. Langer, L. Dessart  
+  Published on [Astronomy & Astrophysics, Volume 685, 58](https://doi.org/10.1051/0004-6361/202347646) ([arxiv](https://doi.org/10.48550/arXiv.2308.01819))
 
+## Conference proceedings 
+
+## Co-authored works (major contribution) 
+
+## Co-authored works (long author list)
 
 
 ## Conference participation 
