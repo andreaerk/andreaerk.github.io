@@ -16,7 +16,7 @@ My main research focuses on studying stars, their weird evolution in binaries, a
 
 ## Publications 
 ## First-authored peer reviewed articles
-* _<p style="color:green">Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models</p>_  
+* <p style="color:green">Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models</p>  
   
 **AE**, N. Langer, A. Gal-Yam, A. Schootemeijer, C. Mannes, et al.  
   In press on Astronomy & Astrophysics ([arxiv](https://doi.org/10.48550/arXiv.2605.21062))  
