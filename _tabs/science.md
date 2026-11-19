@@ -33,12 +33,12 @@ My main research focuses on studying stars, their weird evolution in binaries, a
   Published on Astronomy & Astrophysics, Volume 685, 58 ([journal](https://doi.org/10.1051/0004-6361/202347646), [arxiv](https://doi.org/10.48550/arXiv.2308.01819))  
 
 ### Conference proceedings 
-* Progenitor models of supernovae interacting with their binary companions  
-  AE (2026)  
+* _Progenitor models of supernovae interacting with their binary companions_  
+  **AE** (2026)  
   Submitted to the proceedings of IAU Symposium 406: Future landscape of astrophysical transients ([arxiv](https://doi.org/10.48550/arXiv.2607.25837))  
   
-* Interacting supernovae from wide mass-transferring binaries  
-  AE (2024)  
+* _Interacting supernovae from wide mass-transferring binaries_  
+  **AE** (2024)  
  Published on Bulletin de la Société Royale des Sciences de Liège, vol. 93, no. 3 - Proceedings of the 41st Liège International Astrophysical Colloquium ([journal]((https://doi.org/10.25518/0037-9565.12312)), [arxiv](https://doi.org/10.48550/arXiv.2410.16742))  
   
 ### Co-authored works (major contribution) 
@@ -55,7 +55,7 @@ My main research focuses on studying stars, their weird evolution in binaries, a
   Published on Astronomy & Astrophysics, Volume 685, 169 ([journal](https://doi.org/10.1051/0004-6361/202349066), [arxiv](https://doi.org/10.48550/arXiv.2402.12977))  
 
 * _Evidence for Evolved Stellar Binary Mergers in Observed B-type Blue Supergiants_  
-A. Menon, A. Ercolino, M. A. Urbaneja, et al. (2024)  
+A. Menon, **AE**, M. A. Urbaneja, et al. (2024)  
   Published on The Astrophysical Journal Letters, Volume 963, Issue 2, L42 ([journal](https://doi.org/10.3847/2041-8213/ad2074), [arxiv](https://doi.org/10.48550/arXiv.2311.05581))  
 
 
