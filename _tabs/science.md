@@ -20,7 +20,7 @@ My main research focuses on studying stars, their weird evolution in binaries, a
   In press on [Astronomy & Astrophysics](10.1051/0004-6361/202661032) ([arxiv](https://doi.org/10.48550/arXiv.2605.21062))
 * The demographics of core-collapse supernovae: The role of binary evolution and interaction with the circumstellar medium
   AE, H. Jin, N. Langer, A. Gal-Yam, A. Schootemeijer, et al.
-  Published on [Astronomy & Astrophysics, Volume 706, 169](https://doi.org/10.1051/0004-6361/202557572) ([arxiv]((https://doi.org/10.48550/arXiv.2510.04872))
+  Published on [Astronomy & Astrophysics, Volume 706, 169](https://doi.org/10.1051/0004-6361/202557572) ([arxiv](https://doi.org/10.48550/arXiv.2510.04872))
 
 
 
