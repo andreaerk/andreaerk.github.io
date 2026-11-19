@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "My hidden page"
-permalink: /archive-details/
+permalink: /publication_list/
 ---
 
 Your markdown content here.
