@@ -14,4 +14,6 @@ In simple terms.... it's hard. And from this complicated mess, the most interest
 
 My main research focuses on studying stars, their weird evolution in binaries, and their supernova explosions. On the side, I enjoy also a bit of exoplanets. 
 
-My publications are found [here](/publication_list/)
+## Publication List
+You can find my publications in a structured way [here](/publication_list/).  
+An up-to-date list of all pubblication I coauthored can be found on [SciX](https://scixplorer.org/search?d=astrophysics&p=1&q=author%3A%22Ercolino%2C+Andrea%22&sort=date+desc) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=V1P2A40AAAAJ&view_op=list_works&sortby=pubdate).
