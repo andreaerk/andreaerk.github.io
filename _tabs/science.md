@@ -14,6 +14,7 @@ In simple terms.... it's hard. And from this complicated mess, the most interest
 
 My main research focuses on studying stars, their weird evolution in binaries, and their supernova explosions. On the side, I enjoy also a bit of exoplanets. 
 
+A structured view of my publications is available [here](_tabs/publication_list.md)
 ## Publications 
 ### First-authored peer reviewed articles
 * _Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models_  
