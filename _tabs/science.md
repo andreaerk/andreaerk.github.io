@@ -15,35 +15,35 @@ In simple terms.... it's hard. And from this complicated mess, the most interest
 My main research focuses on studying stars, their weird evolution in binaries, and their supernova explosions. On the side, I enjoy also a bit of exoplanets. 
 
 ## Publications 
-## First-authored peer reviewed articles
+### First-authored peer reviewed articles
 * _Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models_  
-**AE**, N. Langer, A. Gal-Yam, A. Schootemeijer, C. Mannes, et al. (2026)  
- <p style="color:gray"> In press on Astronomy & Astrophysics ([arxiv](https://doi.org/10.48550/arXiv.2605.21062))</p>  
+<p style="color:gray"> **AE**, N. Langer, A. Gal-Yam, A. Schootemeijer, C. Mannes, et al. (2026) </p>  
+ In press on Astronomy & Astrophysics ([arxiv](https://doi.org/10.48550/arXiv.2605.21062))  
   
 * _The demographics of core-collapse supernovae: The role of binary evolution and interaction with the circumstellar medium_  
-  **AE**, H. Jin, N. Langer, A. Gal-Yam, A. Schootemeijer, et al. (2026)  
+<p style="color:gray"> **AE**, H. Jin, N. Langer, A. Gal-Yam, A. Schootemeijer, et al. (2026) </p>    
   Published on [Astronomy & Astrophysics, Volume 706, 169](https://doi.org/10.1051/0004-6361/202557572) ([arxiv](https://doi.org/10.48550/arXiv.2510.04872))  
   
 * _Mass-transferring binary stars as progenitors of interacting hydrogen-free supernovae_  
-  **AE**, H. Jin, N. Langer, L. Dessart (2025)  
+ <p style="color:gray"> **AE**, H. Jin, N. Langer, L. Dessart (2025) </p>    
   Published on [Astronomy & Astrophysics, Volume 696, 103](https://doi.org/10.1051/0004-6361/202453426) ([arxiv](https://doi.org/10.48550/arXiv.2412.09893))  
   
 * _Interacting supernovae from wide massive binary systems_  
-  **AE**, H. Jin, N. Langer, L. Dessart (2024)  
+ <p style="color:gray"> **AE**, H. Jin, N. Langer, L. Dessart (2024) </p>    
   Published on [Astronomy & Astrophysics, Volume 685, 58](https://doi.org/10.1051/0004-6361/202347646) ([arxiv](https://doi.org/10.48550/arXiv.2308.01819))  
 
-## Conference proceedings 
+### Conference proceedings 
 * Progenitor models of supernovae interacting with their binary companions
-  AE (2026)  
+  <p style="color:gray"> AE (2026) </p>  
   Submitted to the proceedings of IAU Symposium 406: Future landscape of astrophysical transients ([arxiv](https://doi.org/10.48550/arXiv.2607.25837))  
   
 * Interacting supernovae from wide mass-transferring binaries
-  AE (2024)  
+  <p style="color:gray"> AE (2024) </p>  
   [Bulletin de la Société Royale des Sciences de Liège, vol. 93, no. 3](https://doi.org/10.25518/0037-9565.12312) - Proceedings of the 41st Liège International Astrophysical Colloquium [arxiv](https://doi.org/10.48550/arXiv.2410.16742)
   
-## Co-authored works (major contribution) 
+### Co-authored works (major contribution) 
 
-## Co-authored works (long author list)
+### Co-authored works (long author list)
 
 
 ## Conference participation 
