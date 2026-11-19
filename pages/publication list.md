@@ -23,8 +23,9 @@ permalink: /publication_list/
   
 ## PhD Dissertation 
 * _The stellar binary progenitors of interacting supernovae_  
-  **AE** (2026)  
- Published in the _Universitäts-und Landesbibliothek Bonn_ ([link](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14571))  
+ Published in the _Universitäts-und Landesbibliothek Bonn_ ([link](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14571))
+Year: 2026  
+Supervisor: Prof. Dr. Norbert Langer  
 
 ## Conference proceedings 
 * _Progenitor models of supernovae interacting with their binary companions_  
