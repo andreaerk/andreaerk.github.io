@@ -1,13 +1,10 @@
 ---
 layout: page
-title: "My hidden page"
+title: "Publication list"
 permalink: /publication_list/
 ---
 
-Your markdown content here.
-
-## Publications 
-### First-authored peer reviewed articles
+# First-authored peer reviewed articles
 * _Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models_  
 **AE**, N. Langer, A. Gal-Yam, et al. (2026)  
  In press in _Astronomy & Astrophysics_ ([arxiv](https://doi.org/10.48550/arXiv.2605.21062))  
@@ -22,9 +19,14 @@ Your markdown content here.
   
 * _Interacting supernovae from wide massive binary systems_  
  **AE**, H. Jin, N. Langer, L. Dessart (2024)  
-  Published in _Astronomy & Astrophysics_, Volume 685, 58 ([journal](https://doi.org/10.1051/0004-6361/202347646), [arxiv](https://doi.org/10.48550/arXiv.2308.01819))  
+  Published in _Astronomy & Astrophysics_, Volume 685, 58 ([journal](https://doi.org/10.1051/0004-6361/202347646), [arxiv](https://doi.org/10.48550/arXiv.2308.01819))
+  
+## PhD Dissertation 
+* _The stellar binary progenitors of interacting supernovae_  
+  **AE** (2026)  
+ Published in the _Universitäts-und Landesbibliothek Bonn_ ([link](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/14571))  
 
-### Conference proceedings 
+## Conference proceedings 
 * _Progenitor models of supernovae interacting with their binary companions_  
   **AE** (2026)  
   Submitted to the _Proceedings of IAU Symposium 406: Future landscape of astrophysical transients_ ([arxiv](https://doi.org/10.48550/arXiv.2607.25837))  
@@ -33,7 +35,7 @@ Your markdown content here.
   **AE** (2024)  
  Published in Bulletin de la Société Royale des Sciences de Liège, vol. 93, no. 3 - _Proceedings of the 41st Liège International Astrophysical Colloquium: The eventful life of massive star multiples_ ([journal](https://doi.org/10.25518/0037-9565.12312), [arxiv](https://doi.org/10.48550/arXiv.2410.16742))  
   
-### Co-authored works (major contribution) 
+# Co-authored works (major contribution) 
 * _Hidden massive eclipsing binaries in red supergiant systems: The hierarchical triple system KQ Puppis and other candidates_  
  D. Jadlovský, L. Molnár, **AE**, et al. (2026)  
   Published in _Astronomy & Astrophysics_, Volume 712, 30 ([journal](https://doi.org/10.1051/0004-6361/202557474), [arxiv](https://doi.org/10.48550/arXiv.2509.25168))
@@ -52,7 +54,8 @@ A. Menon, **AE**, M. A. Urbaneja, et al. (2024)
 
 
 
-### Co-authored works
+
+# Co-authored works
 * _It Takes Two: nucleosynthesis in core-collapse supernova simulations of binary-star progenitors_  
 G. Jalin, A. Arcones, E. P. O'Connor, **AE**, N. Langer (2026)  
 Submitted to _Monthly Notices of the Royal Astronomical Society_ ([arxiv](https://doi.org/10.48550/arXiv.2610.08617))
