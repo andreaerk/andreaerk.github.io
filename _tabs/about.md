@@ -4,10 +4,7 @@ icon: fas fa-archive
 order: 4
 ---
 
-
-# Hi! I am Andrea Ercolino
-
-## A Researcher of Stellar & Supernova Astrophysics
+Here you can find a summary of my work experience, education and awards.
 
 ### Current research
 * **Postdoctoral Researcher**  
@@ -16,11 +13,12 @@ Since Nov. 2026
 
 * **Volunteer**  
 Osservatorio Astronomico di Campo Catino (OACC), Guarcino, Italy   
-Outreach events and research
+Outreach events and research  
+Since Dec. 2018
 
 ### Previous research experience
 * **Research Assistant**  
-Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany  
+Argelander-Institut für Astronomie - Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany  
 Oct. 2021 - Oct. 2026  
 
 ### Education
@@ -33,7 +31,7 @@ Università degli Studi di Roma "La Sapienza", Rome, Italy
 Oct. 2019 - Sep. 2021  
 Grade: 110 cum laude
 * **Bachelors in Physics**  
-Università degli Studi di Roma "La Sapienza", Rome, Italy 
+Università degli Studi di Roma "La Sapienza", Rome, Italy  
 Sep. 2016 - Oct. 2019  
 Grade: 110 cum laude
 
