@@ -1,3 +1,9 @@
+---
+layout: page
+icon: fas fa-archive
+order: 5
+---
+
 ## Publications 
 ### First-authored peer reviewed articles
 * _Neutron star-companion interaction in core collapse supernovae. Population synthesis based on detailed binary evolution models_  
