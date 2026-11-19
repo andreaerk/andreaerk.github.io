@@ -14,4 +14,4 @@ In simple terms.... it's hard. And from this complicated mess, the most interest
 
 My main research focuses on studying stars, their weird evolution in binaries, and their supernova explosions. On the side, I enjoy also a bit of exoplanets. 
 
-My publications are found [here](pages/publication_list.md)
+My publications are found [here](../pages/publication_list.md)
