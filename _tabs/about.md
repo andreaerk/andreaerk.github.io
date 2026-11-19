@@ -10,9 +10,10 @@ order: 4
 ## A Researcher of Stellar & Supernova Astrophysics
 
 ### Current research
-* **Postdoctoral Researcher**
-Universiteit Gent (UGent), Ghent, Belgium
+* **Postdoctoral Researcher**  
+Universiteit Gent (UGent), Ghent, Belgium  
 Since Nov. 2026
+
 * **Volunteer**  
 Osservatorio Astronomico di Campo Catino (OACC), Guarcino, Italy   
 Outreach events and research
